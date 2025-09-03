@@ -2,9 +2,8 @@
 
 This project analyzes fleet performance using **Power BI dashboards**, focusing on vehicle types, fuel usage, mileage efficiency (MPG), and distance covered. The aim is to provide actionable insights for optimizing fleet operations and fuel management.  
 
-Full article [Here](https://medium.com/@ana.bee/driving-decisions-821edfed58c6)
 ---
-
+Full article [Here](https://medium.com/@ana.bee/driving-decisions-821edfed58c6)
 ## Objectives  
 - Track vehicle distribution by type and fleet  
 - Compare **fuel usage** and **miles-per-gallon (MPG)** across fuel types  
